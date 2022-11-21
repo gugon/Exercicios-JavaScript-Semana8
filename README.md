@@ -1,2 +1,2 @@
-# Exercicios-JavaScript-Semana8
-Curso FuturoDev, Modulo-3, Exercícios semana 8 - JavaScript
+# Exerc-cios-Semana-8---JavaScript
+Exercícios - Semana 8 - JavaScript - FuturoDev - SENAI
